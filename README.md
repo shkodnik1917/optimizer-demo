@@ -4,7 +4,7 @@
 
 ## Запуск
 
-**Сайт:** https://vepricov.github.io/optimizer-demo/ — обновляется сам после каждого push в `main` (GitHub Pages, около минуты).
+**Сайт:** https://shkodnik1917.github.io/optimizer-demo/ — обновляется сам после каждого push в `main` (GitHub Pages, около минуты).
 
 Локально: открыть `index.html` в Chrome, `data.js` должен лежать рядом. Интернет не нужен. Для локального сервера:
 
